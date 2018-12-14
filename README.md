@@ -19,17 +19,19 @@
 * Auto-correlation
 
 ### Trading Strategies
-* Bollinger Band to develop a trading strategy for taking a position of SHORT/LONG/HOLD in the Forex Market
-
-### Ensemble Model
-* Selecting model based on lowest RSME metric
 * Applying trading strategies: 
     * Bollinger Band
     * Double Cross-over
+    * Mean Revertion
+    * Momentum Trading
+
+### Ensemble Model
+* Selecting model based on lowest RSME metric
+
 
 ## Build With
 * [JupterNotebook](https://jupyter.org)
-* [TensorFlow](hhttps://www.tensorflow.org)
+* [TensorFlow](https://www.tensorflow.org)
 * [Keras](https://keras.io)
 
 ## Requirements
