@@ -27,3 +27,9 @@
     * Bollinger Band
     * Double Cross-over
 
+# Requirements
+* Jupyter Notebook (Anaconda Distribution Prefered)
+* Install all python dependencies
+    * requirements.sh
+
+
