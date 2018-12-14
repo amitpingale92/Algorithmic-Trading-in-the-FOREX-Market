@@ -30,6 +30,6 @@
 # Requirements
 * Jupyter Notebook (Anaconda Distribution Prefered)
 * Install all python dependencies
-    * requirements.sh <https://github.com/amitpingale92/Algorithmic-Trading-in-the-FOREX-Market-/blob/master/requirements.sh>
+    * [requirements.sh](https://github.com/amitpingale92/Algorithmic-Trading-in-the-FOREX-Market-/blob/master/requirements.sh)
 
 
