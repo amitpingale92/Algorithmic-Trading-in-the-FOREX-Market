@@ -27,9 +27,22 @@
     * Bollinger Band
     * Double Cross-over
 
-# Requirements
+## Build With
+* [JupterNotebook](https://jupyter.org)
+* [TensorFlow](hhttps://www.tensorflow.org)
+* [Keras](https://keras.io)
+
+## Requirements
 * Jupyter Notebook (Anaconda Distribution Prefered)
 * Install all python dependencies
     * [requirements.sh](https://github.com/amitpingale92/Algorithmic-Trading-in-the-FOREX-Market-/blob/master/requirements.sh)
+
+## Authors
+* Amit Pingale
+* Vikas Kumar
+* Shubham Patel
+
+## Licence
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
