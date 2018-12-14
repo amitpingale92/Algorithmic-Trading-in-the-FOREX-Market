@@ -45,6 +45,6 @@
 * Shubham Patel
 
 ## Licence
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/amitpingale92/Algorithmic-Trading-in-the-FOREX-Market-/blob/master/LICENSE) file for details
 
 
